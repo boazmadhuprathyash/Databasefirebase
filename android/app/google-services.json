@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877714930442",
+    "project_id": "fir-database-f758a",
+    "storage_bucket": "fir-database-f758a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877714930442:android:02d935b65335bfdd6f58f3",
+        "android_client_info": {
+          "package_name": "com.abhi.databasefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877714930442-8cb2rc0q8tm0dd318nch99f7hfadb41k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRkekeIJJNf1mAYMGV76u44q5n17Hj3t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877714930442-8cb2rc0q8tm0dd318nch99f7hfadb41k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
